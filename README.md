@@ -15,3 +15,5 @@ Repositorio práctico para el curso profesional de Git y GitHub de [Platzi](http
 - Un profe bastante cool
 
 Y como un amable recordatorio: **Este README.md puede tomarse en serio**. Fue diseñado a manera de ejemplo, pero TÓMATE EN SERIO TODO LO QUE ESTÁ ESCRITO, visita [Platzi](https://platzi.com/) y busca, entre otros, el curso profesional de Git y GitHub.
+
+PD: [Aquí](https://2gmurillo.github.io/blogpost.html) puedes ver cómo quedó el proyecto
